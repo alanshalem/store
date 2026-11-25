@@ -4,3 +4,8 @@ GET {{Store.Api_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+GET {{Store.Api_HostAddress}}/version
+Accept: application/json
+
+###
